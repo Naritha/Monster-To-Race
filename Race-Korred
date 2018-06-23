@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<elements>
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<elements>
+
+-<info>
+
+<name>Korred</name>
+
+<description>5e homebrew</description>
+
+-<update version="0.0.2">
+
+<file url="https://github.com/Naritha/Monster-To-Race/commit/b43a9f6106f0060970c6df61bf84a458d1938b59" name="race-Korred.xml"/>
+
+</update>
+
+</info>
+
 <element name="Korred" type="Race" source="Volos Monster" id="ID_BREW_DOCS_RACE_KORRED">
 <description>
  <p class="flavor">Korred are unpredictable, secretive fey with strong ties to earth and stone. Because of their magical hair and their mystical understanding of minerals, they are sought after by treasure-hunters, dwarves, and others that desire wealth beneath the earth..</p>
@@ -19,7 +35,6 @@
 <h4>KORRED TRAITS</h4>
 
 <p>
-
 <span class="feature">Ability Score Increase.</span>
 Your Strength score increases by 6,your Dexterity score increases by 2, your Constitution score increases by 5, your Wisdom score increases by 2, your Charisma score decreases by 1.
 <br/>
